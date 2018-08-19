@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>MLG.MLGCA</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="microsoft.entityframeworkcore" Version="2.1.1" />
+    <PackageReference Include="microsoft.entityframeworkcore.design" Version="2.1.1" />
+    <PackageReference Include="microsoft.entityframeworkcore.tools" Version="2.1.1" />
+    <PackageReference Include="pomelo.entityframeworkcore.mysql" Version="2.1.1" />
+    <PackageReference Include="pomelo.entityframeworkcore.mysql.design" Version="1.1.2" />
+  </ItemGroup>
+
+</Project>

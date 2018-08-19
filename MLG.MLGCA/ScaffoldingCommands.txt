@@ -1,0 +1,7 @@
+﻿scaffold-dbcontext "server=172.24.12.4;userid=cware_mtc;password=xespat6A;port=3306;
+database=cware_cms;sslmode=none;" pomelo.entityframeworkcore.mysql -o Entities 
+-t case_type_lst, case_seq_lst, file_case, file_lst, case_lst, client_lst, ben_lst, bebtor_lst, 
+file_debtor, case_step_lst, case_step -f
+
+
+connection string - user id=cware_mtc;server=172.24.12.4;database=cware_cms;persistsecurityinfo=True

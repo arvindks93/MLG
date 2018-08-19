@@ -1,0 +1,9 @@
+C:\Applications\MLG\MLG.SQLDB\bin\Debug\netstandard2.0\MLG.SQLDB.deps.json
+C:\Applications\MLG\MLG.SQLDB\bin\Debug\netstandard2.0\MLG.SQLDB.dll
+C:\Applications\MLG\MLG.SQLDB\bin\Debug\netstandard2.0\MLG.SQLDB.pdb
+C:\Applications\MLG\MLG.SQLDB\obj\Debug\netstandard2.0\MLG.SQLDB.csprojAssemblyReference.cache
+C:\Applications\MLG\MLG.SQLDB\obj\Debug\netstandard2.0\MLG.SQLDB.csproj.CoreCompileInputs.cache
+C:\Applications\MLG\MLG.SQLDB\obj\Debug\netstandard2.0\MLG.SQLDB.AssemblyInfoInputs.cache
+C:\Applications\MLG\MLG.SQLDB\obj\Debug\netstandard2.0\MLG.SQLDB.AssemblyInfo.cs
+C:\Applications\MLG\MLG.SQLDB\obj\Debug\netstandard2.0\MLG.SQLDB.dll
+C:\Applications\MLG\MLG.SQLDB\obj\Debug\netstandard2.0\MLG.SQLDB.pdb

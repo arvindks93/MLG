@@ -1,0 +1,9 @@
+C:\Applications\MLG\MLG.MLGCA\bin\Debug\netstandard2.0\MLG.MLGCA.deps.json
+C:\Applications\MLG\MLG.MLGCA\bin\Debug\netstandard2.0\MLG.MLGCA.dll
+C:\Applications\MLG\MLG.MLGCA\obj\Debug\netstandard2.0\MLG.MLGCA.csprojAssemblyReference.cache
+C:\Applications\MLG\MLG.MLGCA\obj\Debug\netstandard2.0\MLG.MLGCA.csproj.CoreCompileInputs.cache
+C:\Applications\MLG\MLG.MLGCA\obj\Debug\netstandard2.0\MLG.MLGCA.AssemblyInfoInputs.cache
+C:\Applications\MLG\MLG.MLGCA\obj\Debug\netstandard2.0\MLG.MLGCA.AssemblyInfo.cs
+C:\Applications\MLG\MLG.MLGCA\bin\Debug\netstandard2.0\MLG.MLGCA.pdb
+C:\Applications\MLG\MLG.MLGCA\obj\Debug\netstandard2.0\MLG.MLGCA.dll
+C:\Applications\MLG\MLG.MLGCA\obj\Debug\netstandard2.0\MLG.MLGCA.pdb
